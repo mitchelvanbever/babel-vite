@@ -35,5 +35,6 @@
     "@babel/runtime": "^7.13.9",
     "babel-plugin-transform-vite-meta-env": "^1.0.0",
     "babel-plugin-transform-vite-meta-glob": "^1.0.0"
-  }
+  },
+  "gitHead": "a578d6eead6a31d7eeeee21078ec98fbf6e9c13f"
 }
