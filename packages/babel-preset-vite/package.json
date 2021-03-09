@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-vite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "babel preset that emulates vite's non-standard functionality",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
