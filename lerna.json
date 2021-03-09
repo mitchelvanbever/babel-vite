@@ -1,8 +1,9 @@
 {
   "packages": ["packages/*"],
   "version": "independent",
+  "changelogPreset": "angular",
   "command": {
-    "publish": {
+    "version": {
       "conventionalCommits": true
     }
   }
